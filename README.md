@@ -5,4 +5,4 @@ Created separate folder and uploaded the files in proper format.
 2.Dataset
 3.Training
 Document in zoo writer is done in proper format
-Project demo: https://www.kapwing.com/videos/6254408cdeb2e100f4a7e94f
+Project demo:https://www.kapwing.com/videos/625573cf5c515c0065e7a806
